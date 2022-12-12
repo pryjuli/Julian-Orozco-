@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @JulianDavid10
-- 👀 I’m interested in Data Science
+- 👋 Hi, I’m Julian Orozco
+- 👀 I’m interested in Data Science, and here you can see my projects. 
 - 🌱 I’m currently learning about that.
 
 
